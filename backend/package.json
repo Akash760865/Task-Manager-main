@@ -12,7 +12,7 @@
     "Task manager",
     "Tasks"
   ],
-  "author": "Aditya",
+  "author": "Akash",
   "license": "ISC",
   "description": "The backend part of simple task manager with user authentication",
   "dependencies": {
